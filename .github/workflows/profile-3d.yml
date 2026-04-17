@@ -8,13 +8,16 @@ on:
 permissions:
   contents: write
 
+# Đoạn này ép GitHub dùng Node.js 24 để tắt cảnh báo màu vàng
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      # Đã nâng cấp lên bản 0.8.0 để hết cảnh báo màu vàng
       - uses: yoshi389111/github-profile-3d-contrib@0.8.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -24,6 +27,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # Thêm mẹo này: Báo lưu file, nếu không có gì mới thì cứ bỏ qua chứ đừng báo lỗi sập hệ thống
           git commit -m "generated 3D contribution graph" || echo "No changes to commit"
           git push
