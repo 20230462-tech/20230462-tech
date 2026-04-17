@@ -1,9 +1,26 @@
-# TTTheheheh
+
 <h1 align="center">
 Hi , I'm TTTheheheh
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=IT+Student;Software+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
 
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thế's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Thế's Streak Stats" width="48%" />
+</p>
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,linux,oracle,mysql,git,github" alt="My Skills" />
+  </a>
+</p>
+
+<br>
 <!-- repo: https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
