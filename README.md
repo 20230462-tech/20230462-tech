@@ -9,7 +9,7 @@ Hi , I'm TTTheheheh
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TTTheheheh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thế's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=20230462-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thế's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Thế's Streak Stats" width="48%" />
 </p>
 
