@@ -5,12 +5,16 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+# Thêm đoạn này để ÉP GitHub phải cho phép Robot lưu file
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Đã nâng cấp lên v4 để hết cảnh báo màu vàng
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
