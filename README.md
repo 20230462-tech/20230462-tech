@@ -9,7 +9,7 @@ Hi , I'm TTTheheheh
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thế's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TTTheheheh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thế's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Thế's Streak Stats" width="48%" />
 </p>
 
@@ -23,18 +23,13 @@ Hi , I'm TTTheheheh
 <br>
 <!-- repo: https://github.com/DenverCoder1/readme-typing-svg -->
 
-<!-- ĐÃ FIX LỖI: Hiệu ứng chữ tự gõ (Dùng máy chủ demolab ổn định) -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=7AA2F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+Thế,+IT+Student">
-  </a>
-</p>
 
-<!-- ĐÃ FIX LỖI: Bộ đếm lượt xem (Đã điền đúng Username của bạn) -->
+
+
+<!-- Đếm lượt xem đang hoạt động rất tốt -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=20230462-tech&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" height="25px" /> 
 </p>
-
 
 <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
