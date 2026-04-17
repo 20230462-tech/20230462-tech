@@ -23,15 +23,18 @@ Hi , I'm TTTheheheh
 <br>
 <!-- repo: https://github.com/DenverCoder1/readme-typing-svg -->
 
+<!-- ĐÃ FIX LỖI: Hiệu ứng chữ tự gõ (Dùng máy chủ demolab ổn định) -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DTime%2BNew%2BRoman%26color%3D7AA2F7%26size%3D25%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26height%3D100%26lines%3DWelcome%2Bto%2Bmy%2Bprofile%3BI%27m%2BTh%E1%BA%BF,%2BIT%2BStudent">
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=7AA2F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+Thế,+IT+Student">
+  </a>
 </p>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26label%3DProfile%2520views%26color%3D7AA2F7%26style%3Dflat" alt="Profile Views" height="25px" width="160px"/>
+<!-- ĐÃ FIX LỖI: Bộ đếm lượt xem (Đã điền đúng Username của bạn) -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=20230462-tech&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" height="25px" /> 
 </p>
+
 
 <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
