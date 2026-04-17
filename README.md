@@ -151,9 +151,9 @@ Hi , I'm TTTheheheh
 <details open>
 <summary>Spotify Playing 🎧</summary>
 
-<a href="https://www.google.com/search?q=https://spotify-github-profile.kittinanx.com/api/view%3Fuid%3DYOUR_SPOTIFY_UID%26redirect%3Dtrue" target="_blank">
-<img src="https://www.google.com/search?q=https://spotify-github-profile.kittinanx.com/api/view%3Fuid%3DYOUR_SPOTIFY_UID%26cover_image%3Dtrue%26theme%3Dspotify-embed%26show_offline%3Dtrue%26background_color%3D121212%26interchange%3Dtrue%26profanity%3Dtrue%26mode%3Ddark%26bar_color%3D53b14f%26bar_color_cover%3Dtrue"/>
-</a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31btmr65litguax72p7do6y2umie&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31btmr65litguax72p7do6y2umie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
+  </a>
 
 </details>
 
